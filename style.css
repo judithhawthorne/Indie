@@ -1,0 +1,9 @@
+.body {
+    background: lightcoral;
+}
+
+
+.container {
+    display: grid;
+    justify-content: center;
+    text-align: center; }
